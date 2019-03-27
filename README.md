@@ -1,2 +1,2 @@
-# CLAN486
-All Project Clan486 
+# CLAN486-ARTWORK
+All Project Clan486 Art Work
